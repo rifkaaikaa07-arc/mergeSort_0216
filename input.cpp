@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int arr[20], B[20];
+int n;
+
+int main(){
     return 0;
 }
