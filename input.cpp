@@ -93,6 +93,10 @@ void output()
     cout << endl;
 }
 
-int main(){
-return 0;
+int main()
+{
+    input();
+    mergeSort(0, n - 1);
+    output();
+    return 0;
 }
