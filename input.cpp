@@ -32,6 +32,11 @@ void input()
     }
 }
 
-int main() {
-    return 0;
+//membuat fungsi mergeSort
+void mergeSort(int low, int high)
+{
+    if (low >= high)
+    {
+       return;
+    }
 }
